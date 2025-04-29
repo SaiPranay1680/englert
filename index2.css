@@ -261,67 +261,67 @@ a{
   }
   
   .section1h1{
-font-family: Open Sans;
-font-size: 32px;
-color: #333333;
-text-decoration: none solid rgb(51, 51, 51);
-text-align: center;
-font-weight: bold;
-margin-left: 90px;
-  }
-  .bg-product{
-    background-image: url('images/Oval.svg');
-  }
-  .icon-container {
-    display: flex;
-    gap: 60px;
-  }
-
-  .icon-box {
+    font-family: Open Sans;
+    font-size: 32px;
+    color: #333333;
+    text-decoration: none solid rgb(51, 51, 51);
     text-align: center;
-    position: relative;
-    width: 100px;
-    height: 100px;
-  }
-
-  .shadow-circle {
-    width: 100px;
-    height: 100px;
-    position: absolute;
-    top: 0;
-    left: 0;
-    z-index: 1;
-  }
-
-  .icon-img {
-    width: 40px;
-    height: 40px;
-    position: relative;
-    top: 30px;
-    z-index: 2;
-  }
-  
-  .bottom-image {
-    position: absolute;
-    bottom: 0;
-    left: 50%;
-    transform: translateX(-50%);
-    width:100%;
-    max-width: 100%;
-    height: auto;
-    z-index: 2; 
-}
-
-  .label {
-    margin-top: 60px;
     font-weight: bold;
-  }
-.para{
-    text-align: center;
-    /* padding-left: 200px;
-    padding-right: 200px; */
-    font-size: 18px;
-}
+      }
+      .bg-product{
+        background-image: url('images/Oval.svg');
+        b
+      }
+      .icon-container {
+        display: flex;
+        gap: 60px;
+      }
+    
+      .icon-box {
+        text-align: center;
+        position: relative;
+        width: 100px;
+        height: 100px;
+      }
+    
+      .shadow-circle {
+        width: 100px;
+        height: 100px;
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: 1;
+      }
+    
+      .icon-img {
+        width: 40px;
+        height: 40px;
+        position: relative;
+        top: 30px;
+        z-index: 2;
+      }
+      
+      .bottom-image {
+        position: absolute;
+        bottom: 0;
+        left: 50%;
+        transform: translateX(-50%);
+        width:100%;
+        max-width: 100%;
+        height: auto;
+        z-index: 2; 
+    }
+    
+      .label {
+        margin-top: 60px;
+        font-weight: bold;
+      }
+    .para{
+        text-align: center;
+        padding-left: 200px;
+        padding-right: 200px;
+        font-size: 18px;
+    }
 .button-style{
     text-align: center;
     margin-left: 600px;
